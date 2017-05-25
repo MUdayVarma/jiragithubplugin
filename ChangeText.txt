@@ -1,0 +1,13 @@
+1
+2
+3
+4
+5
+6
+7 To CHeck Merge Option
+<<<<<<< HEAD
+8 To cretae Conflict
+=======
+8 To cretae Conflict
+9 To create merge Conflict
+>>>>>>> ForTextFileChanges
