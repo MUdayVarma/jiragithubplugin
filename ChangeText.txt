@@ -13,3 +13,4 @@
 >>>>>>> ForTextFileChanges
 10 In GitHub Repository
 11 For JIRA-24 #with comments#
+12 For JIRA-10 #To reflect in Development area
