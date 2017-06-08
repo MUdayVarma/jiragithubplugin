@@ -11,7 +11,7 @@
 8 To cretae Conflict
 9 To create merge Conflict
 >>>>>>> ForTextFileChanges
-10 In GitHub Repository
+10 In GitHub Repository #Changes for JIRA-10
 11 For JIRA-24 #with comments#
 12 For JIRA-10 #To reflect in Development area#
 13 for JIRA-13 #To reflect in Development area#
